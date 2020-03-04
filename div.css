@@ -344,7 +344,7 @@ li.portfolio-tag {
 }
 .parallax {
   /* The image used */
-  background-image: url(/projectd/images/abstract-1562421.jpg);
+  background-image: url(/projectd/images/1.png);
 
   /* Set a specific height */
   height: 500px;
@@ -360,10 +360,10 @@ li.portfolio-tag {
 }
 .parallax-2 {
   /* The image used */
-  background-image: url(/projectd/images/corridor-1496275-1599x1991.jpg);
+  background-image: url(/projectd/images/1.png);
 
   /* Set a specific height */
-  height: 500px;
+  height: 550px;
 
   /* Create the parallax scrolling effect */
   background-attachment: fixed;
@@ -371,3 +371,12 @@ li.portfolio-tag {
   background-repeat: no-repeat;
   background-size: cover;
 }
+.fo-text{ 
+  
+    color: #d2d2dc;
+    font-size: 1.5rem;
+    font-family: 'Ubuntu';
+    font-weight: 200;
+    line-height: 1.2;
+  
+  }
